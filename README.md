@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoni Cabida</h1>
-<h3 align="center">Student at IES L'Estació, Ontinyent🌟.</h3>
+<h3 align="center">Junior Full Stack Developer.</h3>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks, Styles and Tools:</h3>
 <p align="left"> <a href="https://es.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg"
       alt="bash" width="40" height="40" /> </a> <a href="https://es.wikipedia.org/wiki/CSS" target="_blank"
@@ -36,11 +36,20 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a><a href="https://es.wikipedia.org/wiki/Lua" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg"
-      alt="lua" width="40" height="40" /> </a><a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> </a></a><a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php" width="40" height="40" /> </a></p>
+      alt="php" width="40" height="40" /> </a><a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
+      src="https://sitecloudy.com/wp-content/uploads/2023/07/Que-es-C-y-cuales-son-sus-ventajas-y-desventajas-2.png"
+      alt="c#" width="40" height="40" /> </a><a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png"
+      alt="react" width="40" height="40" /> </a><a href="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg" target="_blank" rel="noreferrer"> <img
+      src="https://i18nexus.com/_next/static/media/nextjs.e54be70c.svg"
+      alt="nextjs" width="40" height="40" /> </a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
+      alt="bootstrap" width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+      src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
+      alt="bootstrap" width="40" height="40" /> </a>
+      </p>
 
 <br>
 
