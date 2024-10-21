@@ -12,7 +12,7 @@
 <p><img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="acabidasales" /></p>
 
 
-- ✨ I’m currently learning Web Development and other programming languages
+- ✨ I’m currently working with C# ASP.NET Core 8.0 Blazor
 
 - 📫 How to reach me **acabidasales@gmail.com**
 
